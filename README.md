@@ -1,11 +1,23 @@
 # Mini-Twitter
 This repository represents a mini-twitter system that supports some features, and it is built by Laravel
 
+site: <a href="http://mini-twitter-hashim.herokuapp.com/">http://mini-twitter-hashim.herokuapp.com/</a>
+					github: <a href="https://github.com/cse-hashim/Mini-Twitter/">https://github.com/cse-hashim/Mini-Twitter/</a>
+                    <div style="color:red">
+                    <br><hr>
+		 هذا الموقع لأغراض تعليمية. لا تضع عليه بيانات شخصية حقيقية. المطور غير مسؤول عن اي استخدام سيئ او في غير محله لهذا الموقع. ايضا سيتم الغاء البيانات من قاعدة البيانات الخاصة بالموقع بشكل متكرر. لان قاعدة البيانات صغيرة جدا.
+	<br><hr>
+	This site is for educational purposes. Do not submit real personal data into it. The developer is not responsible for any misuseuse of this site. also the supported database for this site is too small and data will be deleted frequently from it.
+    </div>
+<hr><br>
+
 #info
+
 developped By: Hashim Hossam <hashimhossam@outlook.com>.
 creation and uploading to github was after a request from Abdulrahman Karim <akarim@tendegrees.sa>.
 
 #specifications-email
+
 From: Abdulrahman Karim عبدالرحمن كريم <akarim@tendegrees.sa>
 Sent: Wednesday, October 2, 2019 2:26 PM
 To: hashimhossam@outlook.com
@@ -51,6 +63,7 @@ TenDegrees Inc
 https://tendegrees.sa
 
 #deploy
+
 1. Install php.7.3.9 and any mysql server and any webserver and configure them.
 2. Install composer.
 3. From composer install laravel-6:

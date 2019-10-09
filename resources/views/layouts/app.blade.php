@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
     <meta charset="utf-8">
@@ -126,5 +126,10 @@
             @yield('content')
         </main>
     </div>
+	<footer style="color:red">
+	 هذا الموقع لأغراض تعليمية. لا تضع عليه بيانات شخصية حقيقية. المطور غير مسؤول عن اي استخدام سيئ او في غير محله لهذا الموقع. ايضا سيتم الغاء البيانات من قاعدة البيانات الخاصة بالموقع بشكل متكرر. لان قاعدة البيانات صغيرة جدا.
+	<br><hr>
+	This site is for educational purposes. Do not submit real personal data into it. The developer is not responsible of any miss-use of this site. also the supported database for this site is too small and data will be deleted frequently from it.
+	</footer>
 </body>
 </html>

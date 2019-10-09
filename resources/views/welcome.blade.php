@@ -81,8 +81,12 @@
             @endif
 
             <div class="content">
+			<div style="color:red">
+	<br><hr>
+	This site is for educational purposes. Do not submit real personal data into it. The developer is not responsible of any miss-use of this site. also the supported database for this site is too small and data will be deleted frequently from it.
+	<div>
                 <div class="title m-b-md">
-                    Mini-Twitter
+                    Mini-Tw
                 </div>
 				<div class="links">
 					<hr />

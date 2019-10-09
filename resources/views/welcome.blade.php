@@ -92,6 +92,8 @@
                     Mini-Tw
                 </div>
 				<div class="links">
+					site: <a href="http://mini-twitter-hashim.herokuapp.com/">http://mini-twitter-hashim.herokuapp.com/</a>
+					github: <a href="https://github.com/cse-hashim/Mini-Twitter/">https://github.com/cse-hashim/Mini-Twitter/</a>
 					<hr />
 					By: <a href="mailto:hashimhossam@outlook.com">Hashim Hossam</a>
 					<hr />
